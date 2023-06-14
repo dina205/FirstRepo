@@ -1,1 +1,3 @@
 hi this is the demo of first fgit initi
+
+im making some change to let me show 
